@@ -61,44 +61,35 @@ This is my first port. Try using the updated version of Portmaster. I updated it
 
 Português.
 
-miniland game port para console como R36s e outros, para utilizar com o portmaster
-
-
-o game esta sem o pacote, você pode baixar o game gratuitamente pelo link abaixo.
-
+miniland game port for consoles like R36s and others, to use with portmaster
 
 https://eboatwright.itch.io/miniland
 
+just unzip and place the files in the PORT folder of the console.
 
-pega todos os dados que estiver na pasta do jogo com o nome "Skillwood" e cole na pasta "gamedata" do arquivo que baixo aqui, depois passa para o seu console na pasta ports.
+A game for Windows, macOS and Linux
 
+Simple building, mining and crafting
 
-Um jogo para Windows, macOS e Linux
+Made in pure Java, no libraries or engines!
 
-Construção, mineração e criação simples
+**CONTROLS:**
 
-Feito em Java puro, sem bibliotecas ou mecanismos!
+Cursor/arrow keys - Movement, Menu selection
 
+Z - Open inventory
 
-**CONTROLES:**
+X - Open crafting menu, exit build mode
 
-Teclas de cursor/setas - Movimento, Seleção de menus
+C - Mining, Selection
 
-Z - Inventário Aberto
+Escape - Save and Exit
 
-X - Abrir menu de criação, sair do modo de construção
+Select a block (with C) from your inventory to enter build mode. C to position and X to exit.
 
-C - Mineração, Seleção
+Select an item (with C) in the crafting menu to craft it, and it will go to your inventory.
 
-Escape - Salvar e Sair
-
-
-
-Selecione um bloco (com C) do seu inventário para entrar no modo de construção. C para posicionar e X para sair.
-
-Selecione um item (com C) no menu de criação para criá-lo, e ele irá para seu inventário.
-
-controle no console.
+control on the console.
 
 a = space
 b = c
@@ -110,17 +101,16 @@ down = down
 left = left
 right = right
 
-
-Testes CFW:
+CFW Tests:
 [x] AmberELEC
 [x] ArkOS
 [ ] MuOS
 [ ] ROCKNIX
 
-Resoluções:
+Resolutions:
 
 [x] 480x320
 [ ] 640x480
 [ ] 720x720
 
-Esta é minha primeira portabilidade. Tente usar a versão atualizada do Portmaster. Atualizei-a através do dongle Wi-Fi.
+This is my first port. Try using the updated version of Portmaster. I updated it via the Wi-Fi dongle.
